@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "the list is"
-ls -a
+ls
